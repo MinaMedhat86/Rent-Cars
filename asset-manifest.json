@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Rent-Cars/static/css/main.242ebb30.css",
+    "main.js": "/Rent-Cars/static/js/main.88bd5946.js",
+    "static/js/453.f76b015e.chunk.js": "/Rent-Cars/static/js/453.f76b015e.chunk.js",
+    "static/media/car 2 1.png": "/Rent-Cars/static/media/car 2 1.68e88c8908620cc94f51.png",
+    "static/media/fa-solid-900.ttf": "/Rent-Cars/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/Rectangle8.png": "/Rent-Cars/static/media/Rectangle8.e72c7543dde30658dd87.png",
+    "static/media/Audi 1.png": "/Rent-Cars/static/media/Audi 1.2b823b361d12c5962fb2.png",
+    "static/media/fa-brands-400.ttf": "/Rent-Cars/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/girl.png": "/Rent-Cars/static/media/girl.15181b2ac75f76bbab81.png",
+    "static/media/fa-solid-900.woff2": "/Rent-Cars/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/iPhone-14.png": "/Rent-Cars/static/media/iPhone-14.bb05544b74330f89d9f1.png",
+    "static/media/fa-brands-400.woff2": "/Rent-Cars/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/404-not-found.png": "/Rent-Cars/static/media/404-not-found.7e7ad2815d148f623658.png",
+    "static/media/fa-regular-400.ttf": "/Rent-Cars/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/car3.png": "/Rent-Cars/static/media/car3.e2512fe696efacfd1b75.png",
+    "static/media/fa-regular-400.woff2": "/Rent-Cars/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/Frame.png": "/Rent-Cars/static/media/Frame.f013f645df11e6d768ce.png",
+    "static/media/Vector.png": "/Rent-Cars/static/media/Vector.14e9ec12678aee7efb7d.png",
+    "static/media/fa-v4compatibility.ttf": "/Rent-Cars/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Rent-Cars/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Rent-Cars/index.html",
+    "main.242ebb30.css.map": "/Rent-Cars/static/css/main.242ebb30.css.map",
+    "main.88bd5946.js.map": "/Rent-Cars/static/js/main.88bd5946.js.map",
+    "453.f76b015e.chunk.js.map": "/Rent-Cars/static/js/453.f76b015e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.242ebb30.css",
+    "static/js/main.88bd5946.js"
+  ]
+}
