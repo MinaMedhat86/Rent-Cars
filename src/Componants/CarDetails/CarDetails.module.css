@@ -1,0 +1,37 @@
+@media only screen and (max-width: 992px) {
+    .imgStyle{
+        position: absolute;
+        width: 100% !important;
+        
+    }
+
+    .margStyle{
+        margin-top: 80px !important;
+    }
+
+ 
+    
+}
+
+@media only screen and (min-width: 993px) {
+    .imgStyle{
+        position: absolute;
+        top: 15%;
+    }
+
+    .paddingStyle{
+        padding-right: 9.125rem !important;   
+       }
+    
+}
+
+
+
+
+   .paddingStyle2{
+    width: 10%;
+}
+
+.CarDetails{
+    margin-top: 120px !important;
+}

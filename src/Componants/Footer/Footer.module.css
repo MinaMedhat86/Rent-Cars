@@ -1,0 +1,26 @@
+.footer{
+    background-color: var(--main-color);
+}
+
+.iconColor {
+    color:lightgray;
+}
+
+
+.linePara{
+    line-height: 0.3;
+}
+
+
+
+@media only screen and (max-width: 766.5px) {
+    .itemDirection{
+        align-items: center;
+    }
+}
+
+@media only screen and (min-width: 767px) {
+    .itemDirection{
+        align-items: start;
+    }
+}

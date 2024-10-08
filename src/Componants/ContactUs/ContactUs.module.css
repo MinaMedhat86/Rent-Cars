@@ -1,0 +1,19 @@
+.bgInput{
+    background-color: #e7edf7;
+}
+
+
+
+@media only screen and (max-width: 992px) {
+    .positionStyle {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media only screen and (min-width: 993px) {
+    .positionStyle {
+        display: flex;
+        justify-content: end ;
+    }
+}

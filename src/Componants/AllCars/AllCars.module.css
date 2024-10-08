@@ -1,0 +1,17 @@
+.colorStyle {
+    background-color: lightgray;
+}
+
+
+.starStyle {
+    color: var(--rating-color);
+}
+
+.parColor {
+    color:gray;
+
+}
+
+.AllCars{
+    margin-top: 120px !important;
+}

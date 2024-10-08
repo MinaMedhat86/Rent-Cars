@@ -1,0 +1,11 @@
+.testimonials{
+    background-color:#e7edf7;
+}
+
+.iconColor{
+    color: var(--rating-color);
+}
+
+.widthCard{
+    width: 45%;
+}
